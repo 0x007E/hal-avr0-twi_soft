@@ -156,9 +156,9 @@
         #include <avr/interrupt.h>
     #endif
 
-    #include "../common/defines/TWI_defines.h"
-    #include "../common/enums/TWI_enums.h"
-	#include "../common/macros/PORT_macros.h"
+    #include "../../common/defines/TWI_defines.h"
+    #include "../../common/enums/TWI_enums.h"
+	#include "../../common/macros/PORT_macros.h"
 
     /**
      * @defgroup TWI_Control_Macros Software TWI (I2C) Control Macros
