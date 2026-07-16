@@ -2,6 +2,8 @@
 
 # `hal-avr0-twi_soft` - AVR0 Software TWI Hardware Abstraction
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/0x007E/hal-avr0-twi_soft)
+
 The `hal-avr0-twi_soft` is a lightweight `software-twi` hardware abstraction library for `AVR0` microcontrollers. It provides a clean interface for `software-twi` initialization and communication while hiding direct register-level interaction from higher software layers. The library is intended for projects that want to separate low-level device startup code from application logic and establish a small, reusable system layer for AVR0 targets.
 
 ## Features
