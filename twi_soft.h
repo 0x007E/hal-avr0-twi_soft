@@ -14,7 +14,7 @@
  * 
  * @note This file is part of a larger project and subject to the license specified in the repository. For updates and the complete revision history, see the GitHub repository.
  * 
- * @see https://github.com/0x007e/hal-avr0-mega "AVR ATmega GitHub Repository"
+ * @see https://github.com/0x007e/hal-avr0-twi_soft "AVR0 Software TWI HAL GitHub Repository"
  */
 
 #ifndef TWI_SOFT_H_
